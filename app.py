@@ -1,4 +1,5 @@
 import chainlit as cl
+from chainlit.cli import cli
 from src.llm import ask_order, messages
 
 @cl.on_message

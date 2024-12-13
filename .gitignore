@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 .env/*
+.chainlit/*
 eggs/
 .eggs/
 lib/
